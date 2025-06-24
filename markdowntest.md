@@ -1,5 +1,6 @@
 # Software-project
-## Describing project
+
+This program is intended to be a design for a text based decision website game.
 
 generating requirements
 - requirement 1
