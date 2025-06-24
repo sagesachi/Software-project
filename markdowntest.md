@@ -1,8 +1,8 @@
 # Software-project
 
-This program is intended to be a design for a text based decision website game.
+This program is intended to be a design for a text based decision website game. It is a story based decision game where a users choices determine their outcome, choices appearing on screen at moments of decision where players are able to chooce what path to take. Users can interact with doors, chests, enemies and NPC allies all of which can shape their game outcome with 6 possible story endings. The program will follow a decision tree where each decision the player chooses determining which path they will take, a text box appearing on screen for each scenario. 
 
-generating requirements
+generating program requirements
 - requirement 1
 - requirement 2
 - requirement 3
