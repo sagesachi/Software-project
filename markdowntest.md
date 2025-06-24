@@ -7,7 +7,7 @@ performance requirements
 - requirement 2
 - requirement 3
 
-I plan to incorperate a pilot software implementation method. 
+I plan to incorperate a pilot software implementation method. Pilot implementation involves deploying the new system to a specified small group of test users before full rollout where you are able to recieve feedback in advance. 
 
 storyboard brainstorm
 !(https://raw.githubusercontent.com/sagesachi/Software-project/refs/heads/main/Project%20documentation/1.%20Identifying%20and%20defining/IMG_0851.JPG)
