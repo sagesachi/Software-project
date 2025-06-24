@@ -7,5 +7,7 @@ performance requirements
 - requirement 2
 - requirement 3
 
+I plan to incorperate a pilot software implementation method. 
+
 storyboard brainstorm
 !(https://raw.githubusercontent.com/sagesachi/Software-project/refs/heads/main/Project%20documentation/1.%20Identifying%20and%20defining/IMG_0851.JPG)
