@@ -11,3 +11,15 @@ I plan to incorperate a pilot software implementation method. Pilot implementati
 
 storyboard brainstorm
 !(https://raw.githubusercontent.com/sagesachi/Software-project/refs/heads/main/Project%20documentation/1.%20Identifying%20and%20defining/IMG_0851.JPG)
+
+@@ -5,8 +5,8 @@ In software, *code* is an important word
+- Item 2
+- Item 3
+
+Sample pseudocode:
+```BEGIN code()
+Sample pseudocode:```
+BEGIN code()
+  FOR i=1 to 10
+    PRINT i
+  NEXT i
