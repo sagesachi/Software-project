@@ -21,5 +21,5 @@ BEGIN code()
   NEXT i
 ```
 
-Potential use of Ren'Py for project.
+Potential use of Ren'Py for project which I will have to link and credit. 
 (https://www.renpy.org/)
