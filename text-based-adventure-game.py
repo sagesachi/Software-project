@@ -9,7 +9,7 @@ def intro():
   print("You have the choice to go in one of three directions.")
   print("The direction of an old house on a nearby hill(1)")
   print("A misty forest(2)")
-  print("Or a nearby silent graveyard(3)...")
+  print("Or a silent graveyard(3)...")
 
 def choosepath():
   path == ""
@@ -22,13 +22,12 @@ def checkpath(path):
   time.sleep()
 
   if path == "1":
-    pass
+    print("You make your way towards the old house on a nearby hill...")
     
   elif path == "2":
-    pass
+    print("You make your way towards the misty forest...")
     
   else path == "3":
-    pass
-
+    print("You make your way towards the silent graveyard...")
 
   
