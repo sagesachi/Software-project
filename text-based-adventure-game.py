@@ -8,7 +8,7 @@ def intro():
   print("while walking one afternoon, you stumble upon a new area in which you come to a crossroads")
   time.sleep()
   print("You have the choice to go in one of three directions.")
-  print("The direction of an old house on a nearby hill(1)
+  print("The direction of an old house on a nearby hill(1)")
   print("A misty forest(2)")
   print("Or a nearby silent graveyard(3)...")
 
