@@ -1,6 +1,5 @@
 import time
 import renpy
-import random
 
 def intro():
   print("you decide your own fate")
@@ -12,5 +11,17 @@ def choosepath():
     path = input("Which path will you choose? (1, 2 or 3): ")
   return path
 
-def checkpath(choosepath):
-  pass
+def checkpath(path):
+  print("you make your way towards your destination...")
+  time.sleep()
+
+  if path == "1":
+    pass
+    
+  elif path == "2":
+    pass
+    
+  else path == "3":
+    pass
+  
+  
