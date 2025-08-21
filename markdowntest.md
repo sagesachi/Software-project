@@ -21,4 +21,4 @@ BEGIN code()
   NEXT i
 ```
 
-chose not to use renpy as it was wayy too complex for this project and instead im focusing on writing my own code. 
+chose not to use renpy as it was wayy too complex for this project and instead im focusing on writing my own code. will first write in python before updating and incoperating the game into a web base one. 
