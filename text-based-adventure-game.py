@@ -21,7 +21,7 @@ def checkpath(path):
   elif path == "2":
     pass
     
-  else path == "3":
+  elif path == "3":
     pass
   
   
