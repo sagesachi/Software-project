@@ -1,5 +1,4 @@
 import time
-import renpy
 
 def intro():
   print("you decide your own fate")
