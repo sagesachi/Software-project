@@ -67,17 +67,21 @@ function getStory(name)  {
       title: 'Youre stuck.',
       story: "As soon as you go down into the basement, the door closes and locks behind you. There's nothing in the basement, all empty and dusty and now you're stuck.",
       defaultDestination: 'path',
-      buttonText: "Let's try this again..."
+      buttonText: "Lets try this again..."
     },
 
     upstairs: {
-      title: 'New discovery'
+      title: 'New discovery',
       story: "Upon heading upstairs, you make your way into a room and find a locked chest with gold trimmings with unknown treasures inside...",
     //Edit to include some sort of option of opening it
     },
 
-
     furtherin: {
+      title: 'further into the graveyard...',
+      story: "You go deeper into the graveyard, the night slowly approaching... Suddenly, you trip and fall into a somehow empty grave, unable to get out.",
+      defaultDestination: 'path',
+      buttonText: "Lets try this again..."
+    },
 
 
 
