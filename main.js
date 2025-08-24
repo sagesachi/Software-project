@@ -101,4 +101,8 @@ function getStory(name)  {
       story: "As you continue to go down the path, an unusual face appears in front of you of a green forest nymph. Youre hesitant at first to accept but he helps guide you to the other sight of the forest to safety.",
     //Something something...
     }
+  }
+}
+
+
 
