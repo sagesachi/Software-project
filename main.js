@@ -83,21 +83,12 @@ function getStory(name)  {
       buttonText: "Lets try this again..."
     },
 
-
-
-      
-      title: 'A seemingly mystical misty forest',
-      story: 'As you make your way into the forest, you can either go further down the rocky path or deep into the trees...',
-
-    },
     shed: {
-
-
-      
-      title: 'A seemingly mystical misty forest',
-      story: 'As you make your way into the forest, you can either go further down the rocky path or deep into the trees...',
-
+      title: 'The unusual and creepy shed',
+      story: "You head into the old shed, floorboards creeping beneath you. The small amount of light from outside still reflects into the room, making an old rusty key visible across the room... which seems to be a key for some kind of chest.",
+    //Edit to add to some kind of inventory etc or change variable smt
     },
+    
     trees: {
 
 
