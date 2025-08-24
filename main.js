@@ -90,18 +90,15 @@ function getStory(name)  {
     },
     
     trees: {
-
-
-      
-      title: 'A seemingly mystical misty forest',
-      story: 'As you make your way into the forest, you can either go further down the rocky path or deep into the trees...',
-
+      title: 'Stumbling through the dense forest...',
+      story: "You try to forge your own path through the dense trees instead, your surroundings being hard to see. All of a sudden, a large tree branch cracks and falls on top of you.",
+      defaultDestination: 'path',
+      buttonText: "Lets try this again..."
     },
-    shed: {
 
+    path: {
+      title: 'A new friendly face.',
+      story: "As you continue to go down the path, an unusual face appears in front of you of a green forest nymph. Youre hesitant at first to accept but he helps guide you to the other sight of the forest to safety.",
+    //Something something...
+    }
 
-      
-      title: 'A seemingly mystical misty forest',
-      story: 'As you make your way into the forest, you can either go further down the rocky path or deep into the trees...',
-
-    },
