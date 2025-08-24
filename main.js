@@ -63,30 +63,20 @@ function getStory(name)  {
       ]
     },
 
-
-
-
-
-
-
-    
-    
     basement: {
-      title: 'You're stuck.'
+      title: 'Youre stuck.',
       story: "As soon as you go down into the basement, the door closes and locks behind you. There's nothing in the basement, all empty and dusty and now you're stuck.",
       defaultDestination: 'path',
       buttonText: "Let's try this again..."
     },
 
-
-    
     upstairs: {
-
-      
-      title: 'A seemingly mystical misty forest',
-      story: 'As you make your way into the forest, you can either go further down the rocky path or deep into the trees...',
-
+      title: 'New discovery'
+      story: "Upon heading upstairs, you make your way into a room and find a locked chest with gold trimmings with unknown treasures inside...",
+    //Edit to include some sort of option of opening it
     },
+
+
     furtherin: {
 
 
