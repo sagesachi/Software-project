@@ -40,7 +40,7 @@ function getStory(name)  {
       choices: [
         {
         choice: "Go further into the graveyard",
-        destination: 'further'
+        destination: 'furtherin'
         },
         {
         choice: "Check out the unusual shed",
@@ -61,4 +61,62 @@ function getStory(name)  {
         destination: 'path'
         }
       ]
+    },
+
+
+
+
+
+
+
+    
+    
+    basement: {
+      title: 'You're stuck.'
+      story: "As soon as you go down into the basement, the door closes and locks behind you. There's nothing in the basement, all empty and dusty and now you're stuck.",
+      defaultDestination: 'path',
+      buttonText: "Let's try this again..."
+    },
+
+
+    
+    upstairs: {
+
+      
+      title: 'A seemingly mystical misty forest',
+      story: 'As you make your way into the forest, you can either go further down the rocky path or deep into the trees...',
+
+    },
+    furtherin: {
+
+
+
+      
+      title: 'A seemingly mystical misty forest',
+      story: 'As you make your way into the forest, you can either go further down the rocky path or deep into the trees...',
+
+    },
+    shed: {
+
+
+      
+      title: 'A seemingly mystical misty forest',
+      story: 'As you make your way into the forest, you can either go further down the rocky path or deep into the trees...',
+
+    },
+    trees: {
+
+
+      
+      title: 'A seemingly mystical misty forest',
+      story: 'As you make your way into the forest, you can either go further down the rocky path or deep into the trees...',
+
+    },
+    shed: {
+
+
+      
+      title: 'A seemingly mystical misty forest',
+      story: 'As you make your way into the forest, you can either go further down the rocky path or deep into the trees...',
+
     },
