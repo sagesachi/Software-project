@@ -34,3 +34,31 @@ function getStory(name)  {
         }
       ]
     },
+    graveyard: {
+      title: 'The silent spooky graveyard looming',
+      story: 'As you head into the graveyard, you can see you can either go further in or towards a nearby unusual shed...',
+      choices: [
+        {
+        choice: "Go further into the graveyard",
+        destination: 'further'
+        },
+        {
+        choice: "Check out the unusual shed",
+        destination: 'shed'
+        }
+      ]
+    },
+    forest: {
+      title: 'A seemingly mystical misty forest',
+      story: 'As you make your way into the forest, you can either go further down the rocky path or deep into the trees...',
+      choices: [
+        {
+        choice: "Go through the trees",
+        destination: 'trees'
+        },
+        {
+        choice: "Continue down the path",
+        destination: 'path'
+        }
+      ]
+    },
