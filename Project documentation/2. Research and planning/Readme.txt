@@ -1,3 +1,9 @@
+Select and justify an appropriate development approach
+Apply project management to plan and conduct the development and implementation of a project and software engineering solution
+Demonstrate the use of modelling tools
+
+
+
 Research and use the Waterfall software development approach including ...
 - logical progression of steps throughout the life cycle, stages of 'falling water', advantages and disadvantages, scale and types of developments
 
@@ -26,8 +32,3 @@ demonstrate the use of modelling tools
 explain the contribution of back-end engineering to the success and ease of software development
 - including technology used, error handling, interfacing with front end and security engineering
 
-
-
-Select and justify an appropriate development approach
-Apply project management to plan and conduct the development and implementation of a project and software engineering solution
-Demonstrate the use of modelling tools
