@@ -33,5 +33,3 @@ Investigate how software engineering solution are quality assured
 demonstrate the use of modelling tools
 explain the contribution of back-end engineering to the success and ease of software development
 - including technology used, error handling, interfacing with front end and security engineering
-
-
