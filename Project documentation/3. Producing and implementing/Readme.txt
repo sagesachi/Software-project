@@ -5,7 +5,6 @@ Explore strategies to respond to difficulties when developing a software enginee
 
 
 
-
 - Design, construct and implement a solution fo a software problem using appropriate development approach(es)
 - Present a software engineering solution using presentation software
 - Develop, construct and document algorithms
@@ -16,3 +15,4 @@ Explore strategies to respond to difficulties when developing a software enginee
     including ..
         - looking for a solution online, collaborating with peers and outsourcing
 - Propose an additional innovative solution using a prototype and user interface (UI) design
+
