@@ -20,3 +20,17 @@ function getStory(name)  {
         },        
       ]
     },
+    house: {
+      title: 'Exploring around creeking floorboards',
+      story: 'There seems to be a basement and a second floor to the old house...',
+      choices: [
+        {
+        choice: "Go down to the basement.",
+        destination: 'basement'
+        },
+        {
+        choice: "Go upstairs.",
+        destination: 'upstairs'
+        }
+      ]
+    },
