@@ -1,3 +1,7 @@
+#DRAFT may delete
+#updated and changed format as it wouldnt work for a website into smt w JavaScript
+
+
 import time
 import pygame
 from pygame.locals import *
