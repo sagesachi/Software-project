@@ -66,6 +66,7 @@ function getStory(name)  {
     basement: {
       title: 'Youre stuck.',
       story: "As soon as you go down into the basement, the door closes and locks behind you. There's nothing in the basement, all empty and dusty and now you're stuck.",
+      image: "basement.PNG",      
       defaultDestination: 'path',
       buttonText: "Lets try this again..."
     },
@@ -73,12 +74,14 @@ function getStory(name)  {
     upstairs: {
       title: 'New discovery',
       story: "Upon heading upstairs, you make your way into a room and find a locked chest with gold trimmings with unknown treasures inside...",
+      image: "upstairs.PNG",       
     //Edit to include some sort of option of opening it
     },
 
     furtherin: {
       title: 'further into the graveyard...',
       story: "You go deeper into the graveyard, the night slowly approaching... Suddenly, you trip and fall into a somehow empty grave, unable to get out.",
+      image: "grave.PNG",
       defaultDestination: 'path',
       buttonText: "Lets try this again..."
     },
@@ -86,12 +89,14 @@ function getStory(name)  {
     shed: {
       title: 'The unusual and creepy shed',
       story: "You head into the old shed, floorboards creeping beneath you. The small amount of light from outside still reflects into the room, making an old rusty key visible across the room... which seems to be a key for some kind of chest.",
-    //Edit to add to some kind of inventory etc or change variable smt
+      image: "shed.PNG"
+      //Edit to add to some kind of inventory etc or change variable smt
     },
     
     trees: {
       title: 'Stumbling through the dense forest...',
       story: "You try to forge your own path through the dense trees instead, your surroundings being hard to see. All of a sudden, a large tree branch cracks and falls on top of you.",
+      image: "tree.PNG",
       defaultDestination: 'path',
       buttonText: "Lets try this again..."
     },
@@ -99,6 +104,7 @@ function getStory(name)  {
     path: {
       title: 'A new friendly face.',
       story: "As you continue to go down the path, an unusual face appears in front of you of a green forest nymph. Youre hesitant at first to accept but he helps guide you to the other sight of the forest to safety.",
+      image: "elf?.PNG",
     //Something something...
     }
   }
