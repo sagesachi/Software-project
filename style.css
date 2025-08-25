@@ -1,4 +1,8 @@
-p 
-{ color: blue;
- font-size: 18px; 
+button {
+  display: block;
+  margin-top: 15px;
+}
+
+img {
+  width: 500px;
 }
