@@ -111,6 +111,9 @@ function getStory(name)  {
 }
 
 
+
+
+
 //document.addEventListener('DOMContentLoaded', function() {
 //  var button = document.querySelector('#start-button')
 //  var content = document.querySelector('#content')
@@ -159,17 +162,17 @@ function getStory(name)  {
 //  renderScene()
 //}
 
-function getInputs() {
-  var input = ""
-  if (!story[story.currentScene].choices) {
-    return ""
-  }
-  for(var i = 0; i < story[story.currentScene].choices.length; i++) {
-    input += `
-    <div>
-      <input data-destination = ${story[story.currentScene].choices[i].destination} id = "radio${i}" type = "radio" name = "choices" />
-      <label for "radio${i}">${story[story.currentScene].choices[i].choice}</label>
-    </div>`
-  }
-  return input;
-}
+//function getInputs() {
+//  var input = ""
+//  if (!story[story.currentScene].choices) {
+//    return ""
+//  }
+//  for(var i = 0; i < story[story.currentScene].choices.length; i++) {
+//    input += `
+//    <div>
+//      <input data-destination = ${story[story.currentScene].choices[i].destination} id = "radio${i}" type = "radio" name = "choices" />
+//      <label for "radio${i}">${story[story.currentScene].choices[i].choice}</label>
+//    </div>`
+//  }
+//  return input;
+//}
