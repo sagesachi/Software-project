@@ -1,5 +1,5 @@
 var story;
-function getStory(name)  {
+function getStory()  {
   return {
     currentScene: "path",
     path: {
@@ -115,11 +115,20 @@ function getStory(name)  {
 document.addEventListener('DOMContentLoaded', function() {
   var button = document.querySelector('#start-button')
   var content = document.querySelector('#content')
-  button.addEventListener('click', function() {
-    var name = document.querySelector('#name-input')
-    story = getStory(name.value)
-    renderScene()
-  })
+  button.addEventListener('click', function(){
+    button.addEventListener('click', getStory)
+  }
+                          
+                        
+  
+    
+                          
+                          //{
+ //   var name = document.querySelector('#name-input')
+ //   story = getStory(name.value)
+  //  renderScene()
+//  }
+  )
 })
 
 function renderScene() {
