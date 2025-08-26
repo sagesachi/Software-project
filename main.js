@@ -1,4 +1,5 @@
 var story;
+document.getElementById("start-button").onclick = doFunction;
 function getStory(name)  {
   return {
     currentScene: "path",
@@ -109,7 +110,6 @@ function getStory(name)  {
     }
   }
 }
-
 
 
 
