@@ -1,5 +1,4 @@
 var story;
-document.getElementById("start-button").onclick = doFunction;
 function getStory(name)  {
   return {
     currentScene: "path",
@@ -111,8 +110,7 @@ function getStory(name)  {
   }
 }
 
-
-
+document.getElementById("start-button").onclick = doFunction; getStory
 
 //document.addEventListener('DOMContentLoaded', function() {
 //  var button = document.querySelector('#start-button')
