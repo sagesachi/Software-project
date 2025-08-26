@@ -110,7 +110,14 @@ function getStory(name)  {
   }
 }
 
-document.getElementById("start-button").onclick = doFunction; getStory
+
+var el = document.getElementById("start-button");
+if (el.addEventListener)
+    el.addEventListener("click", doFunction, false);
+else if (el.attachEvent)
+    el.attachEvent('onclick', doFunction);
+
+
 
 //document.addEventListener('DOMContentLoaded', function() {
 //  var button = document.querySelector('#start-button')
