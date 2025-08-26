@@ -1,3 +1,6 @@
+console.log("javascript yay");
+
+
 var story;
 function getStory()  {
   return {
