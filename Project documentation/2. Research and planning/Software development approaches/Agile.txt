@@ -1,1 +1,7 @@
+An Agile software development approach emphasises on iterative development following a series of steps, collaboration with others and being
+adaptable to changing requirements.
 
+It divides work down into various phases, focusing on the continous delivery of development and furthermore improvement. It's the ability
+to create and then additionally react and respond to changes as they happen and are required. 
+
+It's broken down into six key steps, being concept, inception, iteration and construction, release, production and retirement.
