@@ -1,1 +1,9 @@
+Pilot implementation
 
+Pilot implementation, unlike other software implementation methods, deploys and rolls out new software systems to a select small group of
+participants and users who can then test it in a controlled space.
+
+Instead of rolling out a new system all at once for all users, pilot implementation allows for more specified user feedback and testing. It
+does however potentially have the risk of other users to later identify problems that pilot testing users didn't run into however it still
+reduces the risk as it is able to recieve feedback with others testing a system with time to then still implement changes before it 
+officially all is released. 
