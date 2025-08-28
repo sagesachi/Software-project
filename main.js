@@ -1,13 +1,12 @@
 console.log("javascript yay");
 
-
 var story;
-function getStory()  {
+function getStory(name)  {
   return {
     currentScene: "path",
     path: {
       title: "Choose your path",
-      story: `One day during a normal walk in the evening, ${name} comes across a intersection of 3 different pathways. Each of the pathways lead to a different destination, an old house on a nearby hill(1), a silent graveyard(2) and a misty forest(3).`,
+      story: `One day during a normal walk in the evening, you come across a intersection of 3 different pathways. Each of the pathways lead to a different destination, an old house on a nearby hill(1), a silent graveyard(2) and a misty forest(3).`,
       choices: [
         {
           choice: "Up the hill towards the old house",
@@ -16,11 +15,11 @@ function getStory()  {
         {
           choice: "Into the silent graveyard",
           destination: 'graveyard'
-        }        
+        },        
         {
           choice: "To the misty forest",
           destination: 'forest'
-        },        
+        }        
       ]
     },
     house: {
@@ -53,15 +52,15 @@ function getStory()  {
     },
     forest: {
       title: 'A seemingly mystical misty forest',
-      story: 'As you make your way into the forest, you can either go further down the rocky path or deep into the trees...',
+      story: 'As you make your way into the forest, you can either go further down the rocky pathway or deep into the trees...',
       choices: [
         {
         choice: "Go through the trees",
         destination: 'trees'
         },
         {
-        choice: "Continue down the path",
-        destination: 'path'
+        choice: "Continue down the pathway",
+        destination: 'pathway'
         }
       ]
     },
@@ -98,13 +97,13 @@ function getStory()  {
     
     trees: {
       title: 'Stumbling through the dense forest...',
-      story: "You try to forge your own path through the dense trees instead, your surroundings being hard to see. All of a sudden, a large tree branch cracks and falls on top of you.",
+      story: "You try to forge your own pathway through the dense trees instead, your surroundings being hard to see. All of a sudden, a large tree branch cracks and falls on top of you.",
       image: "tree.PNG",
       defaultDestination: 'path',
       buttonText: "Lets try this again..."
     },
 
-    path: {
+    pathway: {
       title: 'A new friendly face.',
       story: "As you continue to go down the path, an unusual face appears in front of you of a green forest nymph. Youre hesitant at first to accept but he helps guide you to the other sight of the forest to safety.",
       image: "elf?.PNG",
@@ -115,23 +114,14 @@ function getStory()  {
 
 
 
-document.addEventListener('DOMContentLoaded', function() {
+  document.addEventListener('DOMContentLoaded', function() {
   var button = document.querySelector('#start-button')
   var content = document.querySelector('#content')
-  button.addEventListener('click', function(){
-    button.addEventListener('click', getStory)
-  }
-                          
-                        
-  
-    
-                          
-                          //{
- //   var name = document.querySelector('#name-input')
- //   story = getStory(name.value)
-  //  renderScene()
-//  }
-  )
+  button.addEventListener('click', function() {
+    var name = document.querySelector('#name-input')
+    story = getStory(name.value)
+    renderScene()
+  })
 })
 
 function renderScene() {
@@ -181,7 +171,7 @@ function getInputs() {
     input += `
     <div>
       <input data-destination = ${story[story.currentScene].choices[i].destination} id = "radio${i}" type = "radio" name = "choices" />
-      <label for "radio${i}">${story[story.currentScene].choices[i].choice}</label>
+      <label for= "radio${i}">${story[story.currentScene].choices[i].choice}</label>
     </div>`
   }
   return input;
