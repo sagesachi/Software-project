@@ -1,22 +1,19 @@
-Needs and opportunities include (demonstration) … 
+Requirements generated for this project include:
+- The functionality of the website, ensuring that it works up to the standard that is required. It needs to be able to function as intended
+  as users decide their own choices for this decision game with the corrosponding result. 
 
-In terms of the schedule to be assessed …. Financial feasibility in this project is attainable in its ….
+- The performance of the website also needs to be taken into consideration, the website performance being accessible and following the performance
+  of the code provided. The website needs to be able to host at least 5 users using the website at once and still be up to standard in its
+  loading and running of the site. 
 
-Requirements generated, taking into consideration the functionality and performance, … 
+Needs and opportunities include the requirement for this project to run on a website in order to be easily accessible without requiring any type
+of specific program or the sort and just be run through a internet browser. An opportunity may include the possibility of incorperating a log of
+the history and actions a user has taken in order to additionally then save their progress in the website and have a record of choices and potential
+items one may pick up to then incorperate that into being able to access certain features only obtainable with a certain item for example as demonstrated. 
 
-Data structures
-- 
-- 
-- 
-- 
+In terms of the schedule to be assessed as this project is planned out, to ensure the completion of this work a large amount of progress needs to be
+started at least before trials begin as I will then be further busy with my trials for other subjects for that time period before then making sure I
+get on top of finishing and completing this project before it is due as soon as I am then done with any other subjects. 
 
-
-Data types
-- 
--
-- 
-- 
-
-
-Boundaries are defined as …
-
+The financial feasability of this project is very attainable due to the fact that a lot of the resources that I will be using for this project will be free
+or otherwise already provided for so that I then am able to utilise what I already have access to in order to complete this game. 
