@@ -1,2 +1,0 @@
-Data dictionaries, including selecting appropriate data types -&gt; Include a data
-dictionary for main program data (eg any global variables)
