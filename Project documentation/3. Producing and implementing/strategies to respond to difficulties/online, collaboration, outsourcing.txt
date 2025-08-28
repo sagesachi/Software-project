@@ -1,1 +1,9 @@
+Strategies to respond to difficulies when developing a software engineering solution
 
+In my own project, a large majority of what I had to quickly learn on Javascript was researched and learnt online, mainly through websites
+and resources such as W3Schhols online web tutorials and looking for particular issues to an issue online with one example being with the
+document.addEventListener feature that I was completely unfamiliar with when starting out this project. 
+
+Another strategy I used with this code was collaborating with my peers and friends and family who was familiar with the coding language,
+learning how things in javascript generally worked initially before then going further with my own research into the specifics for what
+I had intended to achieve. 
