@@ -1,5 +1,5 @@
-#DRAFT may delete
-#updated and changed format as it wouldnt work for a website into smt w JavaScript
+#developing ideas and generating solution options for code generation
+#updated and changed format as it wouldnt work for a website into something using JavaScript
 
 
 import time
