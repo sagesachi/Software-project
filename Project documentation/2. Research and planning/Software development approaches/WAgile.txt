@@ -1,1 +1,4 @@
+WAgile is a hybrid software development approach which combines features from both the Agile and Waterfall development approaches, using
+agile constructs for the development teams while also employing methods of the waterfall appraoch in documentation and programming levels. 
 
+It mixes together principals and practices of both the predictive and adaptive appraoches. 
