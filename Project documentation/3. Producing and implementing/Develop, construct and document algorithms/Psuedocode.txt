@@ -1,7 +1,14 @@
-Sample pseudocode:
-```
-BEGIN code()
-  FOR i=1 to 10
-    PRINT i
-  NEXT i
-```
+Pseudocode:
+
+BEGIN getStory()
+  PRINT story
+  path == ""
+  WHILE path != "1" or path != "2" or path != "3":
+    path = input("Which path will you choose? 1, 2 or 3.")
+  IF path=1
+    destination=place1
+  ELIF path=2
+    destination=place2
+  ELIF path=3
+    destination=place2
+END
