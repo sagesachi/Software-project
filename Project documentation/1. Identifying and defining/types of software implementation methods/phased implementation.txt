@@ -1,1 +1,5 @@
+Phased implementation
 
+Phased implementation is where a company may roll out their new system in various stages rather than all at once. It breaks it down into 
+smaller and more manageable chunks before then slowly releasing each of them one at a time in order to test all of the different aspects
+instead of having to do it all at once. 
