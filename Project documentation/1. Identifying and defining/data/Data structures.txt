@@ -1,0 +1,17 @@
+Data structures
+
+- Arrays
+Arrays serve as the foundation for other structures such as lists and hash tables, storing similar items together at contingous locations. 
+
+- Stack
+A stack is a linear data structure which follows a particular order, using a last in, first out (LIFO) structure. 
+
+- Linked lists 
+Linked lists consist of nodes with some sort of pointer and data being then directed to another node in the series, and is a linear
+data structure. 
+
+- Binary trees
+Non linear data structure which consists of nodes with two potential values of direction. 
+
+- Hash tables
+Used to insert, look up and remove key-value pairs quickly while operating on the concept of 'hashing'. 
