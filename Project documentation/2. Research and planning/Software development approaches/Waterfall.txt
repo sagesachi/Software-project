@@ -1,1 +1,10 @@
+The waterfall model follows, much alike a waterfall, a cascading downward process of 5 different stages. It has the logical progression of
+steps throughout the life cycle, stages of 'falling water'. 
 
+These stages include requirements, design, implementation, verification and maintanence. 
+
+Some advantages of using the waterfall method of software development approaches is the clear project structure, improved risk management,
+set costs and enhanced accountability. It does however still has some disadvantages as well, with some of those including its limited
+flexibility, deadlines required and limited options for client feedback.
+
+The scale and types of developments which use the waterfall development approach largely are ones which have less complicated objectives and predictable outcomes. 
