@@ -1,5 +1,7 @@
-Sample pseudocode:```
+Sample pseudocode:
+```
 BEGIN code()
   FOR i=1 to 10
     PRINT i
   NEXT i
+```
