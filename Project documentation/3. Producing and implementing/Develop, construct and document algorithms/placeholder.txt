@@ -1,2 +1,0 @@
-Develop, construct and document algorithms -&gt; Choose a single algorithm that includes at least 3 control structures and has some
-nested control structures.
