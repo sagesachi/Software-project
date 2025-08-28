@@ -1,1 +1,8 @@
+Direct implementation
 
+A direct implementation approach removes an old system before then putting the new one in its place without any sort of
+overlap or limited roll out much like other software implementation methods. 
+
+It's a risky approach due to the fact that you are then unable to gain any testing feedback by users other than those working on it who may
+have a different perspective and only have that chance once everyone has already gotten the new system, then therefore having to take time
+to then fix any changes needed and do so for all users and may in result impact upon a company and their performance. 
