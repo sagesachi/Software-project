@@ -1,6 +1,16 @@
-data types
+Data types
 
-- 
-- 
-- 
-- 
+- Integer (int)
+A numerical data type  used to represent whole numbers, positive or negative. 
+
+- string (str / text)
+Representing a sequence of characters often for words or sentences. 
+
+- boolean (bool)
+Commonly either 'True' or 'False', logical values used for conditional statements. 
+
+- array
+A collection of ordered items in which are typically of the same data type which can be accessed through an index
+
+- list
+Used to store multiple items in a single variable.
