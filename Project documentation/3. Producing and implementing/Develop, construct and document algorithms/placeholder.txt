@@ -1,2 +1,2 @@
-Choose a single algorithmthat includes at least 3 control structures and has some nested control structures. 
-Create an IPO chart, flowchart and pseudocode to help design this algorithm
+Develop, construct and document algorithms -&gt; Choose a single algorithm that includes at least 3 control structures and has some
+nested control structures.
