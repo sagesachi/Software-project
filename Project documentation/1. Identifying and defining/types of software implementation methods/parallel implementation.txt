@@ -1,1 +1,8 @@
+Parallel implementation
 
+The parallel implementation method is a relatively popular software implementation method as it is generally low risk and runs the new
+system alongside the old one for a certain period of time but having both running before then fully switching over to the new system. 
+
+It's the simultanous running of both the new system and the old at once so the old one is still available and there as a backup however
+users can still try out the new system, testing it for any issues and giving feedback before it is fully implemented into place so as to
+have time for revising if needed. 
