@@ -1,0 +1,3 @@
+Explore 2 reasonable possibilities
+for structuring important data, including their impact on code structure,
+readability and program efficiency
