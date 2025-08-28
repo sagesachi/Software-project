@@ -1,3 +1,10 @@
-Explore 2 reasonable possibilities
-for structuring important data, including their impact on code structure,
-readability and program efficiency
+One example of a reasonable possibility for strucutirng important data may be its impact on the code structure in reorganising and
+managing how variables may be accessed say in an array for example and how easy it is to then identify certain variables through an
+index. It impacts the way in which the code structure is then layed out, sectioning certain aspects into different parts based on
+its attributes or such. 
+
+Another possibility includes the general readability of the code for it to not be displayed potentially as bulky and hard to read, making
+it easier then to identify where one might have made a mistake in the instance that occurs as well as easily acccessing and finding
+what you intend to. The possibility of structuring important data additionally might be because of the resulting overall efficiency of
+the program which can run better due to its easy sorting and prior organisation then being easier to make changes and be efficient in 
+making the most of what can be done in as little lines of code as possible for it to consequently take less time.
