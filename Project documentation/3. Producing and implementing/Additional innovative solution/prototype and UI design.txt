@@ -2,4 +2,6 @@ Propose an additional innovative solution using a prototype and user interface
 (UI) design -&gt; Use Adobe XD to create a working interface prototype
 
 Unfortunately my macbook isn't compatible with using Adobe XD even though I have access to the Creative cloud, so instead I had to use an
-alterative in order to create a prototype user interface. 
+alterative in order to create a prototype user interface. After some research, I ended up choosing to try out 'Figma' for this prototype.
+
+https://www.figma.com/proto/U7zD8U1OWyxgsjq81pzvB6/Untitled?node-id=0-1&t=3u04s9ktEk9tRkhS-1 
