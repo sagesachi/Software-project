@@ -1,1 +1,7 @@
+- Use language dependent code optimisation techniques;
 
+Javascript specific language code optimasisation techniques utilised include the following.
+Efficient event handling --> being direct and specific when adding an event listener for example in order to achieve the intended goal. 
+avoiding global variables --> using my own defined variables instead where required and minimising any unneccassary global variables that
+                              I might not actually need anyway. 
+Optimising loops --> only consisting of specific loop statements that which are needed with anything else outside of the loops if possible. 
