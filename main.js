@@ -6,7 +6,7 @@ function getStory(name)  {
     currentScene: "path",
     path: {
       title: "Choose your path",
-      story: `One day during a normal walk in the evening, you come across a intersection of 3 different pathways. Each of the pathways lead to a different destination, an old house on a nearby hill(1), a silent graveyard(2) and a misty forest(3).`,
+      story: `One day during a normal walk in the evening, you come across a intersection of 3 different pathways. Each of the pathways lead to a different destination, an old house on a nearby hill, a silent graveyard and a misty forest...`,
       choices: [
         {
           choice: "Up the hill towards the old house",
@@ -70,7 +70,7 @@ function getStory(name)  {
       story: "As soon as you go down into the basement, the door closes and locks behind you. There's nothing in the basement, all empty and dusty and now you're stuck.",
       image: "basement.PNG",      
       defaultDestination: 'path',
-      buttonText: "Lets try this again..."
+      buttonText: "Let's try this again..."
     },
 
     upstairs: {
@@ -85,7 +85,7 @@ function getStory(name)  {
       story: "You go deeper into the graveyard, the night slowly approaching... Suddenly, you trip and fall into a somehow empty grave, unable to get out.",
       image: "grave.PNG",
       defaultDestination: 'path',
-      buttonText: "Lets try this again..."
+      buttonText: "Let's try this again..."
     },
 
     shed: {
@@ -100,7 +100,7 @@ function getStory(name)  {
       story: "You try to forge your own pathway through the dense trees instead, your surroundings being hard to see. All of a sudden, a large tree branch cracks and falls on top of you.",
       image: "tree.PNG",
       defaultDestination: 'path',
-      buttonText: "Lets try this again..."
+      buttonText: "Let's try this again..."
     },
 
     pathway: {
